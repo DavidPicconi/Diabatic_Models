@@ -5,7 +5,9 @@ A Python module to evaluate diabatic potential energy surfaces and couplings for
 A Python3 enviroment including the packages __numpy__ and __scipy__.
 
 ## Usage
-Simply import the module
+Extract the files from the archive __Surface_Parameters.tar__ into a directory called __Surface_Parameters__ in the same directory where the __HBQ.py__ file is located.
+
+For usage in Python code simply import the module
 ```python
 import HBQ
 ```
